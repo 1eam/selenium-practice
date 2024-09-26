@@ -1,4 +1,4 @@
-package org.example.seleniumpractise;
+package org.example.seleniumpractice;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
@@ -19,7 +19,7 @@ import static org.junit.jupiter.api.Assertions.*;
 /**
  * This testclass tests the following website: https://www.selenium.dev for its expected behavior
  */
-public class SeleniumPractisesTest {
+public class SeleniumPracticesTest {
     private WebDriver driver;
     private static final String HOMEPAGE_URL = "https://www.selenium.dev/";
     private static final String DOCUMENTATION_URL = "https://www.selenium.dev/documentation/";
